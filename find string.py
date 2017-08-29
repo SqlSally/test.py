@@ -9,5 +9,5 @@ for each in score:
         print(name , score[1])
         isfind = True
         break
-if isfind == False:
+if isfind == False: 
     print("cannot find")
