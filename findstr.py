@@ -6,7 +6,6 @@
 
 #a:  usestr
 #b:  detaistr
-
 def findstr(destr, substr):
     length = len(destr)
     count = 0
@@ -18,5 +17,5 @@ def findstr(destr, substr):
         return count
 
     else:
-        print("no")   
+        print("no")
 print(findstr("imimim", "im"))
