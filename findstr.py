@@ -19,4 +19,4 @@ def findstr(destr, substr):
 
     else:
         print("no")
-print(findstr("imimim", "im"))  
+print(findstr("imimim", "im"))
