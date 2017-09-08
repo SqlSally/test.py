@@ -18,5 +18,5 @@ def findstr(destr, substr):
         return count
 
     else:
-        print("no")
+        print("no")   
 print(findstr("imimim", "im"))
